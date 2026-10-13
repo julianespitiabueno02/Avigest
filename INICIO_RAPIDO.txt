@@ -1,0 +1,18 @@
+AVICOLA - INICIO EN WINDOWS
+
+1. Extraiga toda la carpeta Avicola del ZIP.
+2. Abra Avicola.exe. No se necesita instalar Python ni Internet.
+3. Entre a http://127.0.0.1:5000 si no se abre el navegador.
+4. En el primer inicio cree su administrador. No hay clave predeterminada.
+5. Mantenga abierta la consola mientras usa la aplicacion.
+6. Para detenerla cierre esa consola. Los datos se conservan.
+
+DATOS: database/avicola.db, junto al ejecutable.
+RESPALDOS: backups/. Se crean desde Copia de seguridad como administrador.
+AYUDA: docs/manual_usuario.md y docs/restauracion_backup.md.
+
+Conserve la carpeta _internal junto al ejecutable.
+No ejecute el programa dentro del ZIP.
+No elimine database/ al actualizar el programa.
+
+Desde el proyecto fuente, use INICIAR.bat (requiere .venv preparado).
