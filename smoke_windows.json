@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "checked_at": "2026-09-15T10:46:43.551298",
+  "executable": "dist/Avicola/Avicola.exe",
+  "isolated_copy": ".cache\\package-smoke-20260915-104639",
+  "checks": [
+    "inicio sin Python en PATH",
+    "setup",
+    "login",
+    "galpón",
+    "entrada",
+    "salida",
+    "inventario",
+    "reporte",
+    "CSV",
+    "backup",
+    "CSS",
+    "reinicio y persistencia"
+  ]
+}
